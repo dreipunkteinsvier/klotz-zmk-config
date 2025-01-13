@@ -13,7 +13,7 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
-    - name: klotz-zmk-module
+    - name: klotz-zmk-module-dongle
       remote: dreipunkteinsvier
       revision: main
     - name: prospector-zmk-module
